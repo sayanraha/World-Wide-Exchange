@@ -1,17 +1,23 @@
 # World Wide Exchange
 
-•	This is a Currency convertor web app made using HTML , CSS & Javascript.
+## What is World Wide Exchange?
+World Wide Exchange is a currency converter web application that allows you to convert your currency to a different country's currency. It is a simple and intuitive application that you can use in your browser. The application has several features, including the ability to enter your amount and easily exchange or reverse the two countries' currencies by clicking the exchange icon.
 
-•	In this app, you can enter your amount and convert your currency to a different country’s currency.
+## How to use World Wide Exchange?
+To use World Wide Exchange, simply click on this link -> https://sayanworldwideexchange.netlify.app/
 
-•	You can’t leave the amount field blank or enter 0 as an amount. If you do it, then “1” will be filled automatically in the amount field.
+## Features of World_Wide_Exchange
+World_Wide_Exchange has several features that make it a great tool for converting your currency. Some of the key features include:
 
-•	You can also easily exchange or reverse the two countries’ currencies by clicking the exchange icon.
+•	Ability to convert your currency to a different country's currency
+
+•	Ability to enter your amount
+
+•	Ability to easily exchange or reverse the two countries' currencies by clicking the exchange icon
+
+•	Simple and intuitive interface
 
 
-
-## Web App Link 
-https://sayanworldwideexchange.netlify.app/
 
 
 
