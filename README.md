@@ -6,7 +6,7 @@ World Wide Exchange is a currency converter web application that allows you to c
 ## How to use World Wide Exchange?
 To use World Wide Exchange, simply click on this link -> https://sayanworldwideexchange.netlify.app/
 
-## Features of World_Wide_Exchange
+## Features of World Wide Exchange
 World_Wide_Exchange has several features that make it a great tool for converting your currency. Some of the key features include:
 
 •	Ability to convert your currency to a different country's currency
