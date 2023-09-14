@@ -1,5 +1,8 @@
 # World Wide Exchange
 
+![WorldWideExchange](https://github.com/sayanraha/World-Wide-Exchange/assets/109590974/855886d2-f612-47a6-a0d8-328c377fcede)
+
+
 ## What is World Wide Exchange?
 World Wide Exchange is a currency converter web application that allows you to convert your currency to a different country's currency. It is a simple and intuitive application that you can use in your browser. The application has several features, including the ability to enter your amount and easily exchange or reverse the two countries' currencies by clicking the exchange icon.
 
